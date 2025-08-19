@@ -1,0 +1,34 @@
+# Fichiers et dossiers générés par Godot
+.import/
+*.import
+*.import.tres
+*.import.png
+*.import.wav
+*.import.ogg
+*.import.mp3
+
+# Fichiers de configuration locaux
+default_env.tres
+
+# Icône par défaut de Godot (ignore si non personnalisée)
+icon.png
+icon.png.import
+
+# Fichiers temporaires et caches
+*.tmp
+*.bak
+*.cache
+*.log
+
+# Dossiers de build/export
+export/
+build/
+
+# Fichiers spécifiques à l'OS ou IDE
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Dossier de configuration utilisateur local
+.godot/
